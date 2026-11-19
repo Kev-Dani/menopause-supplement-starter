@@ -1,0 +1,18 @@
+{
+  "name": "menopause-supplement-starter",
+  "displayName": "Menopause Supplement Guide: Free Starter",
+  "version": "1.0.0",
+  "description": "An interactive introduction to dietary supplements in perimenopause, menopause and postmenopause: what supplements can and cannot do, why the market is so confusing, how to judge the evidence behind a claim, and why to ask a doctor or pharmacist first. Evidence-based and informed by the personal experience of its creators, who are not medical professionals. Educational information only, not medical advice.",
+  "author": {
+    "name": "Kev-Dani"
+  },
+  "repository": "https://github.com/Kev-Dani/menopause-supplement-starter",
+  "supportUrl": "https://github.com/Kev-Dani/menopause-supplement-starter/issues",
+  "keywords": [
+    "menopause",
+    "perimenopause",
+    "supplements",
+    "vitamins",
+    "women's health"
+  ]
+}
